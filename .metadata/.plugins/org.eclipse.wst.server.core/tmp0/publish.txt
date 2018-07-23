@@ -1,0 +1,6 @@
+#Tomcat publish data
+#Fri Jun 01 11:16:44 CST 2018
+org.eclipse.jst.jee.server\:Hibernate_demo=/Users/wx/Workspaces/MyEclipse 2017 CI/.metadata/.me_tcat85/webapps/Hibernate_demo
+org.eclipse.jst.jee.server\:Form_2_struts=/Users/wx/Workspaces/MyEclipse 2017 CI/.metadata/.me_tcat85/webapps/Form_2_struts
+org.eclipse.jst.jee.server\:STU-sys=/Users/wx/Workspaces/MyEclipse 2017 CI/.metadata/.me_tcat85/webapps/STU-sys
+org.eclipse.jst.jee.server\:WebMobileGroupChatServer=/Users/wx/Workspaces/MyEclipse 2017 CI/.metadata/.me_tcat85/webapps/WebMobileGroupChatServer

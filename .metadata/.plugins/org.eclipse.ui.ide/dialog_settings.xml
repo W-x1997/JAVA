@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="/Users/wx/Downloads/Android Group Chat App using Sockets/WebMobileGroupChatServer"/>
+		<item value="/Users/wx/Desktop/FileUp/FileUp"/>
+	</list>
+	<section name="ExternalProjectImportWizard">
+		<item value="false" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="/Users/wx/Downloads/stuManager-master"/>
+			<item value="/Users/wx/Downloads/IM-master/im-server"/>
+			<item value="/Users/wx/Workspaces/MyEclipse 2017 CI/HibernateHQL"/>
+			<item value="/Users/wx/Desktop/1401140315Gym"/>
+			<item value="/Users/wx/Workspaces/MyEclipse 2017 CI/SpringAOPTest/SpringAOPTest"/>
+			<item value="/Users/wx/Workspaces/MyEclipse 2017 CI/StrutsVali"/>
+			<item value="/Users/wx/Workspaces/MyEclipse 2017 CI/Interceptor_demo"/>
+			<item value="/Users/wx/Workspaces/MyEclipse 2017 CI/SpringTest"/>
+			<item value="/Users/wx/Workspaces/MyEclipse 2017 CI/MEOGNL1"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+	</section>
+	<section name="SaveAsDialogSettings">
+		<item value="525" key="DIALOG_WIDTH"/>
+		<item value="1|.SF NS Text|11.0|0|COCOA|1|.SFNSText" key="DIALOG_FONT_NAME"/>
+		<item value="532" key="DIALOG_HEIGHT"/>
+		<item value="458" key="DIALOG_X_ORIGIN"/>
+		<item value="0" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>

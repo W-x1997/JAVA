@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE struts PUBLIC "-//Apache Software Foundation//DTD Struts Configuration 2.1//EN" "http://struts.apache.org/dtds/struts-2.1.dtd">
+<struts>
+<!-- 		<constant name="struts.multipart.saveDir" value="/FileUpload/upload"/> -->
+		<constant name="struts.multipart.maxSize" value="10240000" />
+		<package name="default" extends="struts-default" namespace="/">
+		<action name="FileUpload" class="org.j2ee.ssh.UploadAction">
+		<result name="success">/fileinfo.jsp </result>
+<!-- 		<interceptor-ref name="fileUpload"> -->
+<!-- 			<param name="maximumSize">5242880</param> -->
+<!-- 			</interceptor-ref> -->
+<!-- 			<interceptor-ref name="defaultStack" />  -->
+		</action>		
+	</package>
+</struts>    

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Layout resource="/Hibernate/src/User.hbl.xml">
+ <TreeFormPage>
+  <Memento type="FileHibConfig3">
+   <Memento type="File Hibernate Configuration 3.0"/>
+  </Memento>
+ </TreeFormPage>
+</Layout>

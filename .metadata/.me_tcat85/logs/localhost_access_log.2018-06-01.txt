@@ -1,0 +1,6 @@
+127.0.0.1 - - [01/Jun/2018:11:16:56 +0800] "GET / HTTP/1.1" 200 11450
+127.0.0.1 - - [01/Jun/2018:11:16:57 +0800] "GET /WebMobileGroupChatServer/ HTTP/1.1" 200 2222
+0:0:0:0:0:0:0:1 - - [01/Jun/2018:11:16:57 +0800] "GET /WebMobileGroupChatServer/ HTTP/1.1" 200 2222
+0:0:0:0:0:0:0:1 - - [01/Jun/2018:11:16:57 +0800] "GET /WebMobileGroupChatServer/jquery-1.11.1.min.js HTTP/1.1" 200 95786
+0:0:0:0:0:0:0:1 - - [01/Jun/2018:11:16:57 +0800] "GET /WebMobileGroupChatServer/main.js HTTP/1.1" 200 4327
+0:0:0:0:0:0:0:1 - - [01/Jun/2018:11:16:57 +0800] "GET /WebMobileGroupChatServer/style.css HTTP/1.1" 200 2534

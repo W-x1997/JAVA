@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE struts PUBLIC "-//Apache Software Foundation//DTD Struts Configuration 2.1//EN" "http://struts.apache.org/dtds/struts-2.1.dtd">
+<struts>
+	<package name="default" extends="struts-default" namespace="/">
+		<action name="hql" class="org.j2ee.ssh.HQLOprAction">
+			<result name="success">/dspdata.jsp </result>
+		</action>
+		<action name="recordselect" class="org.j2ee.ssh.HQLOprAction"
+			method="GetRecordSelect">
+			<result name="success">/DspRecordData.jsp </result>
+		</action>
+		<action name="saverecord" class="org.j2ee.ssh.HQLOprAction"
+			method="SaveRecord">
+			<result name="success">/DspRecordData.jsp </result>
+		</action>
+		<action name="deleterecord" class="org.j2ee.ssh.HQLOprAction"
+			method="DeleteRecord">
+			<result name="success">/DspRecordData.jsp </result>
+		</action>
+		<action name="updaterecord" class="org.j2ee.ssh.HQLOprAction"
+			method="UpdateRecord">
+			<result name="success">/DspRecordData.jsp </result>
+		</action>
+		<action name="hqlfieldselect" class="org.j2ee.ssh.HQLOprAction"
+			method="HQLFieldSelect">
+			<result name="success">/dspfieldata.jsp </result>
+		</action>
+		<action name="hqlparaselect" class="org.j2ee.ssh.HQLOprAction"
+			method="HQLParaSelect">
+			<result name="success">/dspdata.jsp </result>
+		</action>
+		<action name="sqlselect" class="org.j2ee.ssh.HQLOprAction"
+			method="SQLSelect">
+			<result name="success">/dspdata.jsp </result>
+		</action>
+		<action name="sqlinsert" class="org.j2ee.ssh.HQLOprAction"
+			method="SQLInsertData">
+			<result name="success">/dspindata.jsp </result>
+		</action>
+		<action name="sqldelete" class="org.j2ee.ssh.HQLOprAction"
+			method="SQLDeleteData">
+			<result name="success">/dspdata.jsp</result>
+		</action>
+		<action name="sqlupdate" class="org.j2ee.ssh.HQLOprAction"
+			method="SQLUpdateData">
+			<result name="success">/dspdata.jsp</result>
+		</action>
+		<action name="QBEAddCriteria" class="org.j2ee.ssh.HQLOprAction"
+			method="QBCAddCritedia">
+			<result name="success">/dspdata.jsp</result>
+		</action>
+	</package>
+</struts>    

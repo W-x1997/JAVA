@@ -1,0 +1,33 @@
+import java.util.Scanner;
+
+public class test {
+    
+	    public static boolean IsSymm(String s){
+	       StringBuffer temp=new StringBuffer(s);
+	      String s2=temp.reverse().toString();
+	    if(s.equals(s2))
+	        return true;
+	       else 
+	            return false;
+	    }
+	    
+	
+
+	
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		  Scanner in=new Scanner(System.in);
+		 while(true){
+		  String num=in.nextLine();
+		
+		  System.out.println(IsSymm(num));
+		 
+		 }
+		 
+		
+}
+	
+
+}

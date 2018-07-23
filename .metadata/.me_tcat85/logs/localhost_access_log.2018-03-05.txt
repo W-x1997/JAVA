@@ -1,0 +1,13 @@
+127.0.0.1 - - [05/Mar/2018:16:31:55 +0800] "GET / HTTP/1.1" 200 11450
+127.0.0.1 - - [05/Mar/2018:16:31:56 +0800] "GET /Form_2_struts/ HTTP/1.1" 200 4410
+0:0:0:0:0:0:0:1 - - [05/Mar/2018:16:31:57 +0800] "GET /Form_2_struts/ HTTP/1.1" 200 4410
+0:0:0:0:0:0:0:1 - - [05/Mar/2018:16:31:57 +0800] "GET /Form_2_struts/struts/xhtml/styles.css HTTP/1.1" 200 1139
+0:0:0:0:0:0:0:1 - - [05/Mar/2018:16:31:57 +0800] "GET /Form_2_struts/struts/utils.js HTTP/1.1" 200 3742
+0:0:0:0:0:0:0:1 - - [05/Mar/2018:16:31:57 +0800] "GET /Form_2_struts/struts/ajax/dojoRequire.js HTTP/1.1" 200 1168
+0:0:0:0:0:0:0:1 - - [05/Mar/2018:16:31:57 +0800] "GET /Form_2_struts/struts/css_xhtml/validation.js HTTP/1.1" 200 5507
+0:0:0:0:0:0:0:1 - - [05/Mar/2018:16:31:57 +0800] "GET /Form_2_struts/struts/xhtml/validation.js HTTP/1.1" 200 4666
+0:0:0:0:0:0:0:1 - - [05/Mar/2018:16:31:57 +0800] "GET /Form_2_struts/struts/dojo/struts_dojo.js HTTP/1.1" 200 545246
+0:0:0:0:0:0:0:1 - - [05/Mar/2018:16:31:57 +0800] "GET /Form_2_struts/struts/dojo/nls/dojo_zh-cn.js HTTP/1.1" 200 4063
+0:0:0:0:0:0:0:1 - - [05/Mar/2018:16:31:57 +0800] "GET /Form_2_struts/struts/dojo/src/widget/templates/images/dateIcon.gif HTTP/1.1" 200 404
+0:0:0:0:0:0:0:1 - - [05/Mar/2018:16:31:57 +0800] "GET /Form_2_struts/struts/dojo/src/widget/templates/images/incrementMonth.png HTTP/1.1" 200 192
+0:0:0:0:0:0:0:1 - - [05/Mar/2018:16:31:57 +0800] "GET /Form_2_struts/struts/dojo/src/widget/templates/images/decrementMonth.png HTTP/1.1" 200 191

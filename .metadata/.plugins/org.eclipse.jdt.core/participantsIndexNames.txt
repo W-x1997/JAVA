@@ -1,0 +1,45 @@
+INDEX VERSION 1.129
+/Users/wx/Workspaces/MyEclipse 2017 CI/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/4162987334.index
+/Hibernate/src
+/Users/wx/Workspaces/MyEclipse 2017 CI/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2134285828.index
+/Struts2__upload/src
+/Users/wx/Workspaces/MyEclipse 2017 CI/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2830085554.index
+/Interceptor_demo/src
+/Users/wx/Workspaces/MyEclipse 2017 CI/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/190274249.index
+/HibernateDemo/src
+/Users/wx/Workspaces/MyEclipse 2017 CI/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2697931765.index
+/Struts2_upload/src
+/Users/wx/Workspaces/MyEclipse 2017 CI/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2279601014.index
+/Valid_demo/src
+/Users/wx/Workspaces/MyEclipse 2017 CI/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2550942985.index
+/Hibernate_demo/src
+/Users/wx/Workspaces/MyEclipse 2017 CI/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3323595898.index
+/1401140315Gym/src
+/Users/wx/Workspaces/MyEclipse 2017 CI/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2277645774.index
+/Structs2_demo/src
+/Users/wx/Workspaces/MyEclipse 2017 CI/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2469662721.index
+/Struts2_upload/src
+/Users/wx/Workspaces/MyEclipse 2017 CI/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/875943144.index
+/Structs2_demo/src
+/Users/wx/Workspaces/MyEclipse 2017 CI/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1923846977.index
+/FileUp/src
+/Users/wx/Workspaces/MyEclipse 2017 CI/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/638771041.index
+/HibernateHQL/src
+/Users/wx/Workspaces/MyEclipse 2017 CI/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3700235825.index
+/StrutsVali/src
+/Users/wx/Workspaces/MyEclipse 2017 CI/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3391730535.index
+/Structs2_demo1/src
+/Users/wx/Workspaces/MyEclipse 2017 CI/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/147403365.index
+/STU-sys/src
+/Users/wx/Workspaces/MyEclipse 2017 CI/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3225321426.index
+/Structs2_demo/src
+/Users/wx/Workspaces/MyEclipse 2017 CI/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3492737763.index
+/MEValidationTest/src
+/Users/wx/Workspaces/MyEclipse 2017 CI/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3387868781.index
+/1401150124/src
+/Users/wx/Workspaces/MyEclipse 2017 CI/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1338677671.index
+/GYM-demo/src
+/Users/wx/Workspaces/MyEclipse 2017 CI/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3363090406.index
+/678g/src
+/Users/wx/Workspaces/MyEclipse 2017 CI/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3807114429.index
+/Form_2_struts/src

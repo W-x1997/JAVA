@@ -1,0 +1,47 @@
+import java.util.Scanner;
+
+public class test {
+    
+	    public static boolean IsSymm(String s){
+	       StringBuffer temp=new StringBuffer(s);
+	      String s2=temp.reverse().toString();
+	    if(s.equals(s2))
+	        return true;
+	       else 
+	            return false;
+	    }
+	    
+	    
+	    public static String longestPalindrome(String s) {
+	        String res1="";
+	        String res2="";
+	          for(int i=0;i<s.length();i++)
+	          {
+	              for(int j=i+1;j<s.length();j++)
+	              {
+	                  res2=s.substring(i,j+1);
+	                  if(res1.length()<res2.length()&&IsSymm(res2)&&!res2.equals(s)){
+	                      res1=res2;
+	                  }
+	              }
+	          }
+	          return res1;
+	      }
+	
+
+	
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		  Scanner in=new Scanner(System.in);
+          while(true){
+        	  String s=in.next();
+        	  System.out.println(longestPalindrome(s));
+        	  
+          }
+		 
+		
+}
+	
+
+}

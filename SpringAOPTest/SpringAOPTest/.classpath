@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry excluding="src/" kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="com.genuitec.runtime.library/com.genuitec.spring_4.1">
+		<attributes>
+			<attribute name="owner.project.facets" value="me.spring"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="com.genuitec.runtime.library/com.genuitec.spring_3.1"/>
+	<classpathentry kind="lib" path="E:/duzhlbak/OwnArt/教学/J2EE/J2EE/AspectJ/aspectj-1.8.6.jar"/>
+	<classpathentry kind="lib" path="E:/duzhlbak/OwnArt/教学/J2EE/J2EE/AspectJ/aspectjrt.jar"/>
+	<classpathentry kind="lib" path="E:/duzhlbak/OwnArt/教学/J2EE/J2EE/AspectJ/aspectjweaver.jar"/>
+	<classpathentry kind="lib" path="/Users/wx/Workspaces/MyEclipse 2017 CI/aspectj+aspectjrt+aspectjweaver/aspectj+aspectjrt+aspectjweaver/aspectj-1.8.6.jar"/>
+	<classpathentry kind="lib" path="/Users/wx/Workspaces/MyEclipse 2017 CI/aspectj+aspectjrt+aspectjweaver/aspectj+aspectjrt+aspectjweaver/aspectjrt.jar"/>
+	<classpathentry kind="lib" path="/Users/wx/Workspaces/MyEclipse 2017 CI/aspectj+aspectjrt+aspectjweaver/aspectj+aspectjrt+aspectjweaver/aspectjweaver.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
